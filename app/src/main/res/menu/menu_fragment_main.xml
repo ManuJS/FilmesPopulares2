@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_sort_by"
+        android:title="@string/action_sort_by"
+        app:showAsAction="always">
+
+                <item android:id="@+id/action_sort_by_popularity"
+                    android:title="@string/pref_populares" />
+                <item android:id="@+id/action_sort_by_rating"
+                    android:title="@string/pref_mais_votados" />
+                <item android:id="@+id/action_sort_by_favorite"
+                    android:title="@string/pref_favoritos" />
+
+    </item>
+</menu>

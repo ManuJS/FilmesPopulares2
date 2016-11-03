@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Filmes Populares</string>
+    <string name="action_settings">Opções</string>
+    <string name="action_refresh">Atualizar</string>
+    <string name="action_favorite">Favoritos</string>
+
+    <string name="pref_popularity" translatable="false">popular</string>
+    <string name="pref_vote_avarage" translatable="false">vote_average.desc</string>
+    <string name="pref_favorite" translatable="false">favorite</string>
+    <string name="pref_top_rated" translatable="false">top_rated</string>
+
+    <string name="pref_classificacao" translatable="false">Classificação</string>
+    <string name="pref_classificacao_key" translatable="false">top_rated</string>
+    <string name="pref_classificacao_default" translatable="false">top_rated</string>
+    <string name="busca">Classificação</string>
+    <string name="title_activity_detail_movie">Detalhes do filme</string>
+    <string name="trailers">Trailers</string>
+
+    <!--sao os nomes que vao para a lista de opçoes-->
+    <string name="pref_mais_votados">Mais votados</string>
+    <string name="pref_populares">Populares</string>
+    <string name="pref_favoritos">Favoritos</string>
+
+    <string name="pref_order_key" translatable="false">order</string>
+
+    <string name="texto_sinopse">Sinopse do filme </string>
+    <string name="titulo">Titulo</string>
+    <string name="data_lan_amento">Data lançamento</string>
+    <string name="votos">Votos</string>
+    <string name="msg_server_error">Não há conexão com o servidor</string>
+    <string name="msg_nao_ha_dados">Não existem dados</string>
+    <string name="tmdb_api_key">2ec29dd8d95f2933e1af2acb2f1e48e3</string>
+    <string name="content_authority">com.manu.projeto.filmespopulares</string>
+    <string name="text_favarite_movie">ImageButton (selector) is clicked!</string>
+    <string name="removed_from_favorites">Filme removido da lista de favoritos!</string>
+    <string name="add_to_favorites">Filme adicionado à lista de favoritos!</string>
+    <string name="action_sort_by_favorite">Favorites</string>
+    <string name="action_share">Share</string>
+    <string name="cartaz">cartaz</string>
+    <string name="action_sort_by">Sort by</string>
+    <string name="lista_de_trailers_horizontal">Lista de trailers horizontal</string>
+    <string name="reviews">reviews</string>
+    <string name="poster_do_filme">poster do filme</string>
+</resources>
