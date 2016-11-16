@@ -1,7 +1,6 @@
 package com.manu.projeto.filmespopulares.adapters;
 
 import android.content.Context;
-import android.support.v4.app.FragmentActivity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -10,17 +9,14 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.manu.projeto.filmespopulares.R;
-import com.manu.projeto.filmespopulares.models.Trailer;
+import com.manu.projeto.filmespopulares.model.Trailer;
 import com.squareup.picasso.Picasso;
 
-import java.io.PipedReader;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
  * Created by emanu on 01/11/2016.
  */
-
 public class TrailerAdapter extends BaseAdapter {
 
     private final Context mContext;

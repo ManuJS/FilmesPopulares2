@@ -9,11 +9,15 @@ import android.widget.BaseAdapter;
 import android.widget.TextView;
 
 import com.manu.projeto.filmespopulares.R;
-import com.manu.projeto.filmespopulares.models.Review;
+import com.manu.projeto.filmespopulares.model.Review;
 
 import java.util.List;
 
+/**
+ * Created by emanu on 01/11/2016.
+ */
 public class ReviewAdapter extends BaseAdapter {
+
     private final Context mContext;
     private final LayoutInflater mInflater;
     private final Review mLock = new Review();
@@ -91,5 +95,3 @@ public class ReviewAdapter extends BaseAdapter {
     }
 
 }
-
-

@@ -29,7 +29,7 @@
     <string name="votos">Votos</string>
     <string name="msg_server_error">Não há conexão com o servidor</string>
     <string name="msg_nao_ha_dados">Não existem dados</string>
-    <string name="tmdb_api_key">2ec29dd8d95f2933e1af2acb2f1e48e3</string>
+    <string name="tmdb_api_key">Insira sua chave de api aqui! Insert your api key here</string>
     <string name="content_authority">com.manu.projeto.filmespopulares</string>
     <string name="text_favarite_movie">ImageButton (selector) is clicked!</string>
     <string name="removed_from_favorites">Filme removido da lista de favoritos!</string>

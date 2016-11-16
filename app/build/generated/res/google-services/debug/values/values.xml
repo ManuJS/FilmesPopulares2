@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">547575287278-8e10tpb6637b9vbvtkovnfn1u8s4uinf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://filmes-populares-dc8ef.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">547575287278</string>
+    <string name="google_api_key" translatable="false">AIzaSyD4zS1eBmcC3odqDB8oDaPjDcOpa5dY4Fw</string>
+    <string name="google_app_id" translatable="false">1:547575287278:android:ec433645a886c25d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD4zS1eBmcC3odqDB8oDaPjDcOpa5dY4Fw</string>
+    <string name="google_storage_bucket" translatable="false">filmes-populares-dc8ef.appspot.com</string>
+</resources>

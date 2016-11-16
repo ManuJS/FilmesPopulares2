@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\emanu\\workspace_android\\FilmesPopulares\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 254,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "C:\\Users\\emanu\\workspace_android\\FilmesPopulares\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values-pa\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 254,
+                        "endOffset": 593
+                    }
+                }
+            }
+        ]
+    }
+]

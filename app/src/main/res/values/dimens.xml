@@ -3,9 +3,13 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
-
-    <dimen name="imageview_width">160dp</dimen>
-    <dimen name="imageview_height">200dp</dimen>
-    <dimen name="font_size">16sp</dimen>
-    <dimen name="movie_detail_trailers_height">240dp</dimen>
+    <dimen name="imageview_width">300dp</dimen>
+    <dimen name="imageview_height">350dp</dimen>
+    <dimen name="font_size">24sp</dimen>
+    <dimen name="font_size_date">12sp</dimen>
+    <dimen name="font_size_sinpse">16sp</dimen>
+    <dimen name="Filme_detail_trailers_height">240dp</dimen>
+    <dimen name="grid_item_movie_width">150dp</dimen>
+    <dimen name="grid_item_movie_height">170dp</dimen>
+    <dimen name="grid_item_movie_spacing">5dp</dimen>
 </resources>
